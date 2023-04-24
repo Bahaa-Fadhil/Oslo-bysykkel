@@ -1,1 +1,1 @@
-export * from './lib/shared-sykkel-list';
+export * from './lib/station-list-shell';

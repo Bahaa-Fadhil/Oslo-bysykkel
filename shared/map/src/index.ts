@@ -1,1 +1,1 @@
-export * from './lib/shared-map';
+export * from './lib/interactive-map';

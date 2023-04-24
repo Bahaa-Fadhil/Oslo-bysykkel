@@ -15,9 +15,17 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@oslo-bysykkel/shared/application-header": [
+        "shared/application-header/src/index.ts"
+      ],
+      "@oslo-bysykkel/shared/assets": ["shared/assets/src/index.ts"],
       "@oslo-bysykkel/shared/map": ["shared/map/src/index.ts"],
       "@oslo-bysykkel/shared/sykkel-list": ["shared/sykkel-list/src/index.ts"],
-      "@oslo-bysykkel/shared/ui": ["shared/ui/src/index.ts"]
+      "@oslo-bysykkel/shared/ui": ["shared/ui/src/index.ts"],
+      "@oslo-bysykkel/shared/utils/map-utils": [
+        "shared/utils/map-utils/src/index.ts"
+      ],
+      "@oslo-bysykkel/shared/web-hooks": ["shared/web-hooks/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
