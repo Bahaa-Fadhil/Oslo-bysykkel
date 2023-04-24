@@ -86,3 +86,8 @@ Visit the [Nx Getting started with React and NX](https://nx.dev/tutorials/react-
 ### Changelog
 
 - 1.0.0 Application version
+
+
+## Illustration of the application
+
+![image](https://user-images.githubusercontent.com/32929383/234132987-aea6ae02-35fe-46e0-a310-5c88a4419803.png)
